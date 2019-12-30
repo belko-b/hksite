@@ -134,7 +134,7 @@ div.content {
 }
 
 div.main-banner-image {
-  background-image: url('E:Coding/hksite/resources/images/banneredit_1.jpg');
+  background-image: url('E:Coding/hksite/resources/images/bannerpic2.jpg');
   display: flex;
   justify-content: center;
   align-items: center;
@@ -142,6 +142,7 @@ div.main-banner-image {
   width: 1200px;
   border-left: solid;
   border-right:solid;
+  border-top: solid;
   border-width: 25px;
   border-color: #474B4F;
 }
